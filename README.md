@@ -10,4 +10,4 @@ git clone https://github.com/unhackerenladercha/facebook-cracker
 
 git cd Facebook-cracker
 
-python2 fbc-py
+python2 fbc.py
